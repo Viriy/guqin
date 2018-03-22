@@ -58,8 +58,10 @@ a,.sec2_wrap a .i_seal,.sec2_wrap a h4,.sec5_wrap a em{-webkit-transition:all .3
 a:hover{text-decoration:none}
 .navbar .container-fluid,article,.align-center{width:1100px;margin-left:auto;margin-right:auto}
 
+body{padding-top: 105px}
+
 /*nav*/
-.navbar{margin-bottom:0}
+.navbar{margin-bottom:0;position: fixed;top:0;left: 0;width: 100%;z-index: 99999}
 .navbar-default{border:none;border-bottom:1px solid #e9e8e6}
 .navbar-header{width:304px;height:104px}
 .logo{display:block;width:100%;height:100%;background:url('../images/logo.png') 50% no-repeat;background-size:271px}
@@ -190,6 +192,7 @@ footer{line-height: 80px;background: #918671;color:#ddd;margin-top: 80px}
 	.r2-4{margin-top: 91px}
 }
 @media (max-width:768px){
+	body{padding-top: 50px}
 	.navbar{height:auto}
 	.navbar-header{width:auto;height:50px}
 	.logo{width:220px;background-size:180px}
