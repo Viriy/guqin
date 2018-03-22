@@ -232,10 +232,13 @@ footer{line-height: 80px;background: #918671;color:#ddd;margin-top: 80px}
     .sec1_wrap .txt_wrap{line-height:28px}
     .seal_wrap{width:80%}
     .seal_wrap li{height:50px;background-size:auto 50px}
+    .sec1_wrap .txt_wrap h3{line-height:30px}
+    .sec1_wrap .txt_wrap{line-height: 22px}
+
     .sec2_wrap .txt_wrap h4{font-size:16px}
     .sec2_wrap .txt_wrap h4,.sec2_wrap .txt_wrap p{margin-left:4px;margin-right:4px}
 
-    .sec3_wrap{margin-left: -20px;margin-right: -20px}
+    .sec3_wrap{margin-left: -15px;margin-right: -15px}
     .sec3_wrap a{padding-left: 3px;padding-right: 3px}
 
     .sec4_wrap h3{margin-bottom:6px}
