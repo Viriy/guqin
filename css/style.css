@@ -193,7 +193,7 @@ footer{line-height: 80px;background: #918671;color:#ddd;margin-top: 80px}
 	.r2-4{margin-top: 91px}
 }
 @media (max-width:768px){
-	body{padding-top: 50px}
+	body{padding-top: 50px;max-width: 100%;overflow-x: hidden}
 	.navbar{height:auto}
 	.navbar-header{width:auto;height:50px}
 	.logo{width:220px;background-size:180px}
