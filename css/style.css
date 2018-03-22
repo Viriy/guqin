@@ -224,7 +224,7 @@ footer{line-height: 80px;background: #918671;color:#ddd;margin-top: 80px}
     .caret{right:20px;top:50%;margin-top:-2px;bottom: initial}
     .navbar-nav .open .dropdown-menu>li>a{padding: 8px 0;font-size: 13px;color: #aaa}
 
-    .tit{line-height: 22px}
+    .tit{line-height: 22px;max-width: 100%;overflow: hidden}
     .more_wrap{margin:24px auto 6px;padding:0 10px;width:78px;line-height:22px}
     .tit{margin-top:30px;margin-bottom:10px}
     .tit h1{line-height:30px}
