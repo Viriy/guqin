@@ -203,7 +203,7 @@ footer{line-height: 80px;background: #918671;color:#ddd;margin-top: 80px}
 
     .tit{margin-right: -45px}
     .line_l{right:50%;margin-right:90px}
-    .line_r{left:50%;margin-left:90px}
+    .line_r{left:50%;right:0;margin-left:90px}
 
     .f14{font-size:12px}
     .f15,.f15 a{font-size:13px}
