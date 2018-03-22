@@ -198,7 +198,7 @@ footer{line-height: 80px;background: #918671;color:#ddd;margin-top: 80px}
 	.navbar-header{width:auto;height:50px}
 	.logo{width:220px;background-size:180px}
 
-    .bar-wrap{width: 100%;left:50%;margin-left:-50%;}
+    .bar-wrap{width: 100%;left:50%;margin-left:-50%;overflow: hidden}
     .bar-wrap img{width:160%;margin-left:-30%}
 
     .line_l{right:50%;margin-right:90px}
