@@ -196,7 +196,6 @@ footer{line-height: 80px;background: #918671;color:#ddd;margin-top: 80px}
 }
 @media (max-width:768px){
 	body{padding-top: 50px;max-width: 100%}
-	.navbar .container-fluid,article,.align-center{width:auto;margin-left:auto;margin-right:auto}
 	.navbar{height:auto}
 	.navbar-header{width:auto;height:50px}
 	.logo{width:220px;background-size:180px}
