@@ -89,7 +89,7 @@ body{padding-top: 105px}
 .bar-wrap .next{background-position:0 -90px;right:15%}
 .bar-wrap .prev:hover,.bar-wrap .next:hover{filter:alpha(opacity=50) !important;opacity:0.5 !important}
 
-.tit{margin-top:78px;margin-bottom:50px;line-height:30px;width: 100%;overflow: hidden}
+.tit{margin-top:78px;margin-bottom:50px;line-height:30px;overflow: hidden}
 .tit .txt{display:inline-block;margin:auto;position:relative;z-index:3;padding:0 34px}
 .tit h1{line-height:42px}
 .line{width:50%;height:1px;background:#e9e9e9;top:50%}
