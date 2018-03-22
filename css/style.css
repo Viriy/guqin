@@ -142,6 +142,7 @@ a:hover{text-decoration:none}
 .sec7_wrap a:hover{opacity: 1}
 .sec7_wrap .row1{height: 222px;margin-bottom: 5px}
 .sec7_wrap .row1 a,.sec7_wrap .row1 .i{left: 50%;bottom:0}
+
 .r_bg1{background:#e1d2b9;width:16px;height:118px;margin-left: -448px}
 .r_bg2{background:#9f4327;width:45px;height:118px;margin-left: -428px}
 .r1-1{margin-left: -378px}
@@ -165,6 +166,28 @@ footer{line-height: 80px;background: #918671;color:#ddd;margin-top: 80px}
 @media (max-width:1100px){
 	.sec1_wrap a:not(:last-child),.sec2_wrap a:not(:last-child),.sec4_wrap a:not(:last-child){margin-bottom:16px}
 	.sec5_wrap a{margin-left:40px;margin-right:40px}
+
+	.sec7_wrap .row1{height: 222px;margin-bottom:3px}
+	.r_bg1{width:12px;height:88px;margin-left: -330px}
+	.r_bg2{width:34px;height:88px;margin-left: -316px}
+	.r1-1{margin-left: -280px}
+	.r1-1 img{width:130px;height:87px}
+	.r1-2{margin-left: -148px}
+	.r1-2 img{width: 132px;height: 87px}
+	.r1-3{margin-left: -14px}
+	.r1-3 img{width: 110px;height: 164px}
+	.r1-4{margin-left: 100px}
+	.r1-4 img{width: 173px;height: 115px}
+	.r_bg3{width:55px;height:50px;margin-left:276px}
+
+	.sec7_wrap .row2{height:178px}
+	.r2-1{margin-left:-275px}
+	.r2-1 img{width:124px;height:84px}
+	.r2-2{margin-left:-148px}
+	.r2-2 img{width:244px;height:139px}
+	.r2-3,.r2-4{margin-left:100px}
+	.r2-3 img,.r2-4 img{width:131px;height:88px}
+	.r2-4{margin-top: 91px}
 }
 @media (max-width:768px){
 	.navbar{height:auto}
@@ -217,7 +240,27 @@ footer{line-height: 80px;background: #918671;color:#ddd;margin-top: 80px}
     .sec6_wrap .txt_wrap{background-size:160px;height: 64px;width: 160px}
     .sec6_wrap .txt_wrap h3{margin-top:4px}
 
-    .sec7_wrap{}
+    .sec7_wrap .row1{height:74px;margin-bottom:1px}
+	.r_bg1{width:6px;height:40px;margin-left: -152px}
+	.r_bg2{width:16px;height:40px;margin-left: -144px}
+	.r1-1{margin-left: -127px}
+	.r1-1 img{width:59px;height:39px}
+	.r1-2{margin-left: -67px}
+	.r1-2 img{width: 60px;height:39px}
+	.r1-3{margin-left: -6px}
+	.r1-3 img{width:50px;height:74px}
+	.r1-4{margin-left:45px}
+	.r1-4 img{width:79px;height:52px}
+	.r_bg3{width:25px;height:23px;margin-left:125px}
+
+	.sec7_wrap .row2{height:80px}
+	.r2-1{margin-left:-125px}
+	.r2-1 img{width:57px;height:38px}
+	.r2-2{margin-left:-67px}
+	.r2-2 img{width:111px;height:63px}
+	.r2-3,.r2-4{margin-left:45px}
+	.r2-3 img,.r2-4 img{width:60px;height:40px}
+	.r2-4{margin-top:41px}
 
     footer{line-height:60px;margin-top: 40px}
 }
