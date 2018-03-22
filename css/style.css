@@ -201,9 +201,9 @@ footer{line-height: 80px;background: #918671;color:#ddd;margin-top: 80px}
     .bar-wrap{width: 100%;left:50%;margin-left:-50%;overflow: hidden}
     .bar-wrap img{width:160%;margin-left:-30%}
 
-    .tit{margin-right: -45px}
-    .line_l{right:50%;margin-right:90px}
-    .line_r{left:50%;right:0;margin-left:90px}
+    .tit{margin-left:0}
+    .line_l{right:50%;margin-right:80px}
+    .line_r{left:50%;right:0;margin-left:80px}
 
     .f14{font-size:12px}
     .f15,.f15 a{font-size:13px}
@@ -276,6 +276,13 @@ footer{line-height: 80px;background: #918671;color:#ddd;margin-top: 80px}
 	.sec1_wrap a{background-size:270px}
 	.sec1_wrap img{width: 240px;height: 146px}
 	.i_play{background-size: 42%}
+
+	.sec6_wrap a{padding-left: 5px;padding-right: 5px}
+	.sec6_wrap img {
+	    width: 140px;
+	    height: 140px;
+	}
+	.sec6_wrap .txt_wrap{width: 140px;height: 56px;background-size: 140px;padding:8px 12px}
 }
 @media (max-width:992px){
     .navbar .container-fluid,article,.align-center{width:auto}
