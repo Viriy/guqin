@@ -289,4 +289,5 @@ footer{line-height: 80px;background: #918671;color:#ddd;margin-top: 80px}
 }
 @media (max-width:992px){
     .navbar .container-fluid,article,.align-center{width:100%}
+    .sec3_wrap,.sec6_wrap{width: auto}
 }
